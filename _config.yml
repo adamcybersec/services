@@ -27,7 +27,7 @@ navbar-links:
   Contact:
     - GitHub: "https://github.com/adamcybersec"
     - LinkedIn: "https://linkedin.com/in/adamcybersec"
-    - Email: "mailto:github@adamcybersec.com"
+    - Email: "mailto:services@adamcybersec.com"
 
 ################
 # --- Logo --- #
@@ -52,7 +52,7 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "services@adamcybersec.com"
   github: adamcybersec
   linkedin: adamcybersec
 # facebook: deanattali
@@ -181,8 +181,8 @@ footer-hover-col: "#0085A1"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
 
-plausible:
-  enabled: true
+#plausible:
+#  enabled: true
 
 ####################
 # --- Comments --- #
