@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ADAMCYBERSEC Contracting Services
+title: Contracting Services
 ---
 
 ## Services
